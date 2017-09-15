@@ -2,9 +2,10 @@ import matplotlib.pyplot as plot
 
 def f(x):
 
- return x+1
 
-xs = list(range(-3, 4))
+ return x**2
+
+xs = list(range(-100, 100))
 ys = []
 for x in xs:
     ys.append(f(x))
