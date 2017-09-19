@@ -27,27 +27,37 @@
 # me.greet('Paul')
 
 
-#                               3 types of methods (Classmethod, Staticmethod....)
-# class Person:
-#     def __init__(self, name, age=25):
-#         self.name = name
-#         self.age = 25
-#         self.age = age
-#     def greet (self,friend):
-#         if friend.age <30:
-#             print('Yo dude')
-#         print("Hello {} and {}".format(self.name, friend.name))
-#     @classmethod
-#     def create(cls):
-#         name = input('What is your name? ')
-#         return cls(name)
-#     @staticmethod
-#     def fix_name( name):
-#         return name.replace('-',' ')
-#
-# me = Person.create(fix_name('hello-you'))
-# print(me.age)
+#                               3 types of methods ("default" is just self method, Classmethod, Staticmethod,....)
+class Person:
+    def __init__(self, name, age=25):
+        self.name = name
+        self.age = 25
+        self.age = age
+    def greet (self,friend):
+        if friend.age <30:
+            print('Yo dude')
+        print("Hello {} and {}".format(self.name, friend.name))
+    @classmethod
+    def create(cls):                                #classmethod passes the class information @classmetho is called decorators.
+        name = input('What is your name? ')         #if you replace the cls. to person. it wil call the person class.
+        name = cls.fix_name(name)                   #This is where you create the instance
+        return cls(name)
+    @staticmethod
+    def fix_name(name):
+        return name.replace('-',' ')
 
+class SuperMan(Person):
+    pass
+
+me = Person('Ahmer') #this is using the default method.
+print(me.name)
+me.greet(me)
+
+
+me = SuperMan.create()
+print(me.name)
+me.greet(me)
+#######################################################
 #                       Inheritance
 class Animal:
     def __init__(self, name):
@@ -100,3 +110,4 @@ class RoboDog(Robot, Dog):
 cat1 =RoboCat('foofoo')
 cat1.name
 cat1.auto_destruct()                        #robocat auto_destruct() when called
+
