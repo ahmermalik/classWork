@@ -5,8 +5,8 @@ class Person:
         self.name = name
         self.email = email
         self.phone = phone
-        self.friends= []
-        self.greeting_count=0
+        self.friends = []
+        self.greeting_count = 0
 
     def greet(self, other_person): #greet is method aka function. other_person is an argument
         self.greeting_count+=1

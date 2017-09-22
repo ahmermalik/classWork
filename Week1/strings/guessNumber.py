@@ -35,8 +35,6 @@ def play_again():
 
 def guess_number():
 
-
-
     my_random_number = random.randint(1, 10)
     guess_number = True
     print ("I am thinking of a number between 1 and 10.")

@@ -38,7 +38,7 @@ class Person:
             print('Yo dude')
         print("Hello {} and {}".format(self.name, friend.name))
     @classmethod
-    def create(cls):                                #classmethod passes the class information @classmetho is called decorators.
+    def create(cls):                                #classmethod passes the class information @classmethod is called decorators.
         name = input('What is your name? ')         #if you replace the cls. to person. it wil call the person class.
         name = cls.fix_name(name)                   #This is where you create the instance
         return cls(name)
@@ -75,7 +75,7 @@ class Cat (Animal):
 class Dog(Animal):
     def __init__(self, name, sound):
         self.sound = sound
-        super().__init__(name)      #calls the parent function
+        super().__init__(name)      #calls the parent function and passes the name to the parent function, the super class wont handle this.
     def woof(self):
         print(self.sound)
 
@@ -86,7 +86,7 @@ dog1.woof()
 dog2.woof()
 
 
-class CatDog(Cat,Dog):
+class CatDog(Cat, Dog):
     pass
 
 class DogCat(Dog, Cat):                 #create new animal class because you didn't originally have one.
