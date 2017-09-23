@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d435882d-8093-442e-a848-0f04219bf4e2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../2. Tuesday/hero-rpg" afterPath="$PROJECT_DIR$/../2. Tuesday/hero-rpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../../Week1/exerciseselfstudy.py" afterPath="$PROJECT_DIR$/../../Week1/exerciseselfstudy.py" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -256,15 +257,15 @@
       <updated>1506043812886</updated>
       <workItem from="1506043814020" duration="2962000" />
       <workItem from="1506050606418" duration="876000" />
-      <workItem from="1506092056152" duration="974000" />
+      <workItem from="1506092056152" duration="1113000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4812000" />
+    <option name="totallyTimeSpent" value="4951000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="56" width="1313" height="670" extended-state="1" />
+    <frame x="127" y="56" width="1313" height="670" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
