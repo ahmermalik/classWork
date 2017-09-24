@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3d80811c-e3bf-4201-9f1b-a0dae47d0379" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week2/2. Tuesday/hero-rpg" afterPath="$PROJECT_DIR$/Week2/2. Tuesday/hero-rpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week1/exerciseselfstudy.py" afterPath="$PROJECT_DIR$/Week1/exerciseselfstudy.py" />
     </list>
     <ignored path="Coursework.iws" />
@@ -27,8 +26,8 @@
       <file leaf-file-name="exerciseselfstudy.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Week1/exerciseselfstudy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+            <state relative-caret-position="-33">
+              <caret line="94" column="85" selection-start-line="94" selection-start-column="85" selection-end-line="94" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -255,7 +254,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Python.hero_rpg_pt2">
+  <component name="RunManager" selected="Python.exerciseselfstudy">
     <configuration default="false" name="classexercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -484,9 +483,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.hero_rpg_pt2" />
-        <item index="1" class="java.lang.String" itemvalue="Python.hero_rpg2" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exerciseselfstudy" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exerciseselfstudy" />
+        <item index="1" class="java.lang.String" itemvalue="Python.hero_rpg_pt2" />
+        <item index="2" class="java.lang.String" itemvalue="Python.hero_rpg2" />
         <item index="3" class="java.lang.String" itemvalue="Python.guessNumber" />
         <item index="4" class="java.lang.String" itemvalue="Python.classexercise" />
       </list>
@@ -816,8 +815,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Week1/exerciseselfstudy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="87" column="38" selection-start-line="87" selection-start-column="38" selection-end-line="87" selection-end-column="38" />
+        <state relative-caret-position="-33">
+          <caret line="94" column="85" selection-start-line="94" selection-start-column="85" selection-end-line="94" selection-end-column="85" />
           <folding />
         </state>
       </provider>

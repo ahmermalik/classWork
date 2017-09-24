@@ -1,4 +1,5 @@
-#
+import turtle
+
 # fruit = "apple"
 # for idex in range(5):
 #         currentChar = fruit[idex]
@@ -48,45 +49,68 @@
 #
 
 
-def applyRules(lhch):
-    rhstr = ""
-    if lhch == 'A':
-        rhstr = 'B'   # Rule 1
-    elif lhch == 'B':
-        rhstr = 'AB'  # Rule 2
+# def applyRules(lhch):
+#     rhstr = ""
+#     if lhch == 'A':
+#         rhstr = 'B'   # Rule 1
+#     elif lhch == 'B':
+#         rhstr = 'AB'  # Rule 2
+#     else:
+#         rhstr = lhch    # no rules apply so keep the character
+#
+#     return rhstr
+
+
+# def processString(oldStr):
+#     newstr = ""
+#     for ch in oldStr:
+#         newstr = newstr + applyRules(ch)
+#
+#     return newstr
+#
+#
+# def createLSystem(numIters,axiom):
+#     startString = axiom
+#     endString = ""
+#     for i in range(numIters):
+#         endString = processString(startString)
+#         startString = endString
+#
+#     return endString
+#
+# print(createLSystem(4, "A"))
+
+#Looping and counting
+
+def count(text, aChar):
+    lettercount = 0
+    for c in text:
+        if c == aChar:
+            lettercount = lettercount + 1
+    return lettercount
+
+print(count("afunnybunny", "a"))
+
+
+# To find the locations of the second or third occurrence of a character in a string,
+# we can modify the find function, adding a third parameter for the starting position in the search string:
+# Save & Run
+
+def find2(astring, achar, start):
+    """
+    Find and return the index of achar in astring.
+    Return -1 if achar does not occur in astring.
+    """
+    ix = start
+    found = False
+    while ix < len(astring) and not found:
+        if astring[ix] == achar:
+            found = True
+        else:
+            ix = ix + 1
+    if found:
+        return ix
     else:
-        rhstr = lhch    # no rules apply so keep the character
+        return -1
 
-    return rhstr
-
-
-def processString(oldStr):
-    newstr = ""
-    for ch in oldStr:
-        newstr = newstr + applyRules(ch)
-
-    return newstr
-
-
-def createLSystem(numIters,axiom):
-    startString = axiom
-    endString = ""
-    for i in range(numIters):
-        endString = processString(startString)
-        startString = endString
-
-    return endString
-
-print(createLSystem(4, "A"))
-
-
-def drawLsystem(aTurtle,instructions,angle,distance):
-    for cmd in instructions:
-        if cmd == 'F':
-            aTurtle.forward(distance)
-        elif cmd == 'B':
-            aTurtle.backward(distance)
-        elif cmd == '+':
-            aTurtle.right(angle)
-        elif cmd == '-':
-            aTurtle.left(angle)
+print(find2('banana', 'a', 2))
