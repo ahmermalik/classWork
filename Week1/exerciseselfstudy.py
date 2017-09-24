@@ -114,3 +114,11 @@ def find2(astring, achar, start):
         return -1
 
 print(find2('banana', 'a', 2))
+
+#how to check for every character in ascii
+
+import string
+print(string.ascii_lowercase)
+print(string.ascii_uppercase)
+print(string.digits)
+print(string.punctuation)
