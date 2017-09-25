@@ -1,11 +1,20 @@
-.modal-dialog{
+/* The Modal (background) */
 
+
+modal-title{
+
+    color: brown;
 
 }
 
+buttons{
+    color: green;
+}
 
-/*.Header-Margin{*/
-    /*margin: 10px 10px 100px 470px;*/
-    /*text-align: center;*/
 
-/*}*/
+#container{
+    margin: 0 auto;
+    width: 80%;
+    font-family: verdana, arial, sans-serif;
+    font-size:16px;
+}
