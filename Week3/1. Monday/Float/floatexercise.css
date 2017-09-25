@@ -1,19 +1,39 @@
 
-header{
-    color: brown;
+
+.column1 {
+    float: left;
+    background-color: purple;
+    display: block;
+    width: 300px;
+    height: 700px;
+
 }
 
-h1{
-    float:left;
+.column2{
+    float:right;
     color: red;
     background-color:orange;
+    display: block;
+    width: 1300px;
+    height: 700px;
+}
+
+.header, .footer {
+    background-color: yellow;
+    color: black;
+    padding: 1px;
+}
+.header{
+
+    float: top;
+
+}
+.footer{
+    float: bottom;
 
 }
 
-h2{
-    float: right;
+.box{
 
-}
-div {
-    clear: left;
+    clear:left;
 }
