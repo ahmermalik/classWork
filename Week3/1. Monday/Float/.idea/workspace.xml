@@ -2,7 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18766711-7a6f-49be-b20d-9b38bc4799a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/floatexercise.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/basic.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/humans.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/hamburger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/touch/apple-touch-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/touch/chrome-touch-icon-192x192.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/touch/icon-128x128.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/images/touch/ms-touch-icon-144x144-precomposed.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/manifest.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/manifest.webapp" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/robots.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/scripts/sw/runtime-caching.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/service-worker.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/commands.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/deploy-appengine.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/deploy-firebase.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/deploy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/file-appendix.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/install.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/mdl-sass.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.babel.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/yarn.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floatexercise.html" afterPath="$PROJECT_DIR$/floatexercise.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,11 +50,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="floatexercise.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="floatexercise.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/floatexercise.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="floatexercise.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/floatexercise.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -36,6 +76,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -46,25 +87,19 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/floatexercise.html" />
+        <option value="$PROJECT_DIR$/floatexercise.css" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.babel.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="190" />
+    <option name="x" value="61" />
+    <option name="y" value="336" />
     <option name="width" value="1313" />
     <option name="height" value="670" />
   </component>
@@ -109,6 +144,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -175,21 +211,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1506366807586</updated>
-      <workItem from="1506366809472" duration="359000" />
+      <workItem from="1506366809472" duration="1211000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359000" />
+    <option name="totallyTimeSpent" value="1211000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="190" width="1313" height="670" extended-state="0" />
-    <editor active="false" />
+    <frame x="61" y="336" width="1313" height="670" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2498096" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294509" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -219,8 +255,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/floatexercise.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floatexercise.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
           <folding />
         </state>
       </provider>

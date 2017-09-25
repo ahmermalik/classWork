@@ -1,0 +1,19 @@
+
+header{
+    color: brown;
+}
+
+h1{
+    float:left;
+    color: red;
+    background-color:orange;
+
+}
+
+h2{
+    float: right;
+
+}
+div {
+    clear: left;
+}
