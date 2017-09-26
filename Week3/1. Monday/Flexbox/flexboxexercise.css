@@ -1,16 +1,16 @@
 
 
 .column1 {
+    display: flex;
     background-color: purple;
     display: block;
     width: 300px;
     padding: 10px;
-    float: left;
 
 }
 
 .column2{
-    float:left;
+    display: flex;
     color: red;
     background-color:orange;
     display: block;
@@ -19,24 +19,27 @@
 }
 
 .header, .footer {
+
     background-color: yellow;
     color: black;
     padding: 1px;
 }
 .header{
 
-    float: top;
+    content: "";
+    clear: both;
+
 
 
 }
 .footer{
-    float: bottom;
+
+    content: "";
+    clear: both;
 
 }
 
 .box{
-    content: "";
-    clear: both;
-    display: table;
+    display: flex;
 }
 
