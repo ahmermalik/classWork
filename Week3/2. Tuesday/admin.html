@@ -2,9 +2,104 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
+          integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <title>Bootstrap Layout Exercise</title>
+    <link rel="stylesheet" type="text/css" href="./admin.css">
 </head>
 <body>
 
+<nav class="navbar navbar-toggleable-md navbar-light bg-faded" style="background-color: #e3f2fd;">
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <a class="navbar-brand" href="#">Awesome things</a>
+    <div class="collapse navbar-collapse" id="navbarText">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="#reasons">Reasons <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Features</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="#">Pricing</a>
+            </li>
+        </ul>
+        <span class="navbar-text">
+      Contact us for Specials!
+    </span>
+    </div>
+</nav>
+
+<div id="bgpic">
+    <div class="home-wrap">
+        <h1> This is a Rick & Morty tribute page!</h1>
+    </div>
+</div>
+
+
+
+
+<div class ="container">
+<div class=row>
+<div class=header></div>
+</div>
+<div class=row id="content">
+
+<div class="subsectiontitles"><h1 class="subsectiontitles"> The Rick and Morty Show!</h1></div></div>
+<div class="subsectiontitles"> awesomeness</div>
+
+
+    <div class="row" id="reasons">
+
+<div class="col-4"> <h1>Rick</h1>
+        <ul>
+            <li>He's hyper intelligent.</li>
+            <li>Insane self absorbed.</li>
+            <li>Can literally do anything, but only if he wants to.</li>
+            <li>Loves intergalatic cable.</li>
+        </ul>
+
+</div>
+<div class="col-4"> <h1>Morty</h1>
+        <ul>
+            <li>Very sensitive and lacks confidence.</li>
+            <li>Very helpful to his grandpa.</li>
+            <li>Teenage boy with teenager problems.</li>
+            <li>Loves intergalatic cable</li>
+        </ul>
+</div>
+
+<div class="col-4"> <h1>Noob-noob</h1>
+        <ul><li>Has the best "DAAAMN" replies.</li>
+        <li> Rick's favorite.</li>
+        <li>Has never gone on a vindicator adventure.</li></ul>
+
+</div>
+</div>
+
+<div class="subsectiontitles"> Pictures</div>
+
+
+    <div class="row" id="pictures">
+
+        <div class="col-4"> <h2>Rick Sanchez</h2>
+                <img class="imgresize" src="RickSanchez.png" alt="Rick Sanchez from Rick and Morty"> </img>
+        </div>
+            <div class="col-4"> <h2>Morty</h2>
+                 <img class="imgresize" src="morty.jpg" alt="Morty from Rick and Morty"> </img>
+        </div>
+            <div class="col-4"> <h2>Noob-noob</h2>
+                <img class="imgresize" src="noob.jpg" alt="Noob-noob from Rick and Morty"> </img>
+        </div>
+    </div>
+<div class=footer></div>
+</div>
+
+<script src="./admin.js"></script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 </body>
 </html>

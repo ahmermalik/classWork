@@ -1,0 +1,34 @@
+.header{
+
+
+}
+
+.footer{
+
+
+
+}
+
+#bgpic{
+    background: url("background.jpg") no-repeat center top;
+    height: 100vh;
+    background-size: cover;
+}
+/*.bodycontainer{*/
+    /*text-align: center*/
+/*}*/
+
+
+.subsectiontitles{
+    text-align: center;
+}
+
+.imgresize{
+    width: 50%;
+    height: 60%;
+}
+
+.h2{
+
+    text-align: center;
+}
