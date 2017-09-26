@@ -1,0 +1,42 @@
+
+
+.column1 {
+    background-color: purple;
+    display: block;
+    width: 300px;
+    padding: 10px;
+    float: left;
+
+}
+
+.column2{
+    float:left;
+    color: red;
+    background-color:orange;
+    display: block;
+    width: calc(100% - 340px);
+    padding: 10px;
+}
+
+.header, .footer {
+    background-color: yellow;
+    color: black;
+    padding: 1px;
+}
+.header{
+
+    float: top;
+
+
+}
+.footer{
+    float: bottom;
+
+}
+
+.box{
+    content: "";
+    clear: both;
+    display: table;
+}
+
