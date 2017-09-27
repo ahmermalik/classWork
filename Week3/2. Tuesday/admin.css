@@ -14,15 +14,15 @@
     height: 100vh;
     background-size: cover;
 }
-/*.bodycontainer{*/
-    /*text-align: center*/
-/*}*/
 
 
-.subsectiontitles{
+.home-wrap{
+    color: yellow;
+    text-shadow: -.5px 0 black, 0 .5px black, 1px 0 black, 0 0px black;
     text-align: center;
-    -webkit-text-fill-color: darkcyan;
 }
+
+
 .purposeimg {
     margin: auto;
     display: block;
@@ -42,10 +42,10 @@
 
 }
 
-.p {
+p {
 
     text-align: center;
-    font-size: 3.9vw;
+    font-size: 2.9vw;
 }
 
 h1 {
@@ -60,10 +60,7 @@ h2{
     font-size: 3.0vw;
 }
 
-.home-wrap{
-    -webkit-text-fill-color: darkcyan;
-    text-align: center;
-}
+
 
 @media only screen and (max-width: 320px) {
 
