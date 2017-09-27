@@ -2,10 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+    <link rel="stylesheet" href="animate.min.css">
     <title>Bootstrap Layout Exercise</title>
     <link rel="stylesheet" type="text/css" href="./admin.css">
+
 </head>
 <body>
 
@@ -13,7 +16,7 @@
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
-    <a class="navbar-brand" href="#">Awesome things</a>
+    <a class="navbar-brand" href="#">Rick & Morty</a>
     <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav mr-auto">
             <li class="nav-item active">
@@ -34,64 +37,59 @@
 
 <div id="bgpic">
     <div class="home-wrap">
-        <h1> This is a Rick & Morty tribute page!</h1>
+        <p> If you haven't watched Rick and Morty, a cartoon about the adventures of a mad scientist and his hapless grandson, teleport to the nearest screen and shove every episode into your eyes as soon as possible. </p>
     </div>
 </div>
 
 
 
 
-<div class ="container">
+<div class ="container-fluid"> <!--Nest container-fluid for your container class. Container div should nest your entire website content less nav bar.-->
 <div class=row>
 <div class=header></div>
 </div>
 <div class=row id="content">
 
-<div class="subsectiontitles"><h1 class="subsectiontitles"> The Rick and Morty Show!</h1></div></div>
-<div class="subsectiontitles"> awesomeness</div>
+<div class="subsectiontitles"> The Rick and Morty Show!</div>
 
+    <div class="subsectiontitles"> awesomeness</div>
 
     <div class="row" id="reasons">
 
-<div class="col-4"> <h1>Rick</h1>
-        <ul>
-            <li>He's hyper intelligent.</li>
-            <li>Insane self absorbed.</li>
-            <li>Can literally do anything, but only if he wants to.</li>
-            <li>Loves intergalatic cable.</li>
-        </ul>
+
+
 
 </div>
-<div class="col-4"> <h1>Morty</h1>
-        <ul>
-            <li>Very sensitive and lacks confidence.</li>
-            <li>Very helpful to his grandpa.</li>
-            <li>Teenage boy with teenager problems.</li>
-            <li>Loves intergalatic cable</li>
-        </ul>
-</div>
 
-<div class="col-4"> <h1>Noob-noob</h1>
-        <ul><li>Has the best "DAAAMN" replies.</li>
-        <li> Rick's favorite.</li>
-        <li>Has never gone on a vindicator adventure.</li></ul>
-
-</div>
-</div>
-
-<div class="subsectiontitles"> Pictures</div>
+<div class="subsectiontitles"> <strong> People behind the descriptions</strong> </div>
 
 
     <div class="row" id="pictures">
 
-        <div class="col-4"> <h2>Rick Sanchez</h2>
-                <img class="imgresize" src="RickSanchez.png" alt="Rick Sanchez from Rick and Morty"> </img>
+        <div class="col-md-4 col-sm-12 col-lg-4"> <h2>Rick Sanchez</h2>
+                <img class="imgresize" src="RickSanchez.png" alt="Rick Sanchez from Rick and Morty"> </img><br>
+            <ul>
+                <li>He's hyper intelligent.</li>
+                <li>Insane self absorbed.</li>
+                <li>Can literally do anything, but only if he wants to.</li>
+                <li>Loves intergalatic cable.</li>
+            </ul>
         </div>
-            <div class="col-4"> <h2>Morty</h2>
-                 <img class="imgresize" src="morty.jpg" alt="Morty from Rick and Morty"> </img>
+
+            <div class="col-md-4 col-sm-12 col-lg-4"> <h2>Morty</h2>
+                 <img class="imgresize" src="morty.jpg" alt="Morty from Rick and Morty"> </img><br>
+                <ul>
+                    <li>Very sensitive and lacks confidence.</li>
+                    <li>Very helpful to his grandpa.</li>
+                    <li>Teenage boy with teenager problems.</li>
+                    <li>Loves intergalatic cable</li>
+                </ul>
         </div>
-            <div class="col-4"> <h2>Noob-noob</h2>
-                <img class="imgresize" src="noob.jpg" alt="Noob-noob from Rick and Morty"> </img>
+            <div class="col-md-4 col-sm-12 col-lg-4"> <h2>Noob-noob</h2>
+                <img class="imgresize" src="noob.jpg" alt="Noob-noob from Rick and Morty"> </img><br>
+                <ul><li>Has the best "DAAAMN" replies.</li>
+                    <li> Rick's favorite.</li>
+                    <li>Has never gone on a vindicator adventure.</li></ul>
         </div>
     </div>
 <div class=footer></div>

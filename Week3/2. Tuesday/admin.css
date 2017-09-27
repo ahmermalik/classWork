@@ -21,14 +21,38 @@
 
 .subsectiontitles{
     text-align: center;
+    -webkit-text-fill-color: darkcyan;
 }
 
 .imgresize{
-    width: 50%;
-    height: 60%;
+    height: 37%;
+    border: 1px solid red;
+    display: block;
+    margin: auto;
+    width: 45%;
+
+}
+h1 {
+    margin: 0 0 30px 0;
+    text-align: center;
+    font-size: 2.9vw
 }
 
-.h2{
-
+h2{
+    margin: 0 0 30px 0;
     text-align: center;
+    font-size: 3.0vw;
+}
+
+.home-wrap{
+    -webkit-text-fill-color: darkcyan;
+    text-align: center;
+}
+
+@media only screen and (max-width: 320px) {
+
+    body {
+        font-size: 2em;
+    }
+
 }
