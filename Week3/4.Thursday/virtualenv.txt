@@ -1,0 +1,9 @@
+mkvirtualenv -a ` pwd` -p `which python3` hobby 
+
+‘hobby’ is the name of what you’ll call your virtual environment in whichever directory you’re in.
+
+type ‘workon hobby’ anywhere and it’ll automatically take you to the environment.
+
+
+
+in order to get out of the virtual env, type ‘deactivate’
