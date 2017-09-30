@@ -1,3 +1,6 @@
+import os         ##this is wused when you're deploying server
+
+
 import tornado.ioloop
 import tornado.web
 import tornado.log
@@ -5,6 +8,10 @@ import tornado.log
 
 from jinja2 import \
   Environment, PackageLoader, select_autoescape                     #This is setting up jinja to know where the python module is located.
+
+PORT = int(os.environ.get('PORT','1337'))
+
+
 ENV = Environment(                                                  #the module and which directory within the module has your templates
   loader=PackageLoader('myapp', 'templates'),
   autoescape=select_autoescape(['html', 'xml'])
@@ -66,5 +73,5 @@ if __name__ == "__main__":
   tornado.log.enable_pretty_logging()
 
   app = make_app()
-  app.listen(8888)
+  app.listen(PORT, print('Server started on localhost: ' + str(PORT)))
   tornado.ioloop.IOLoop.current().start()
