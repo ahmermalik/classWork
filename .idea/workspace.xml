@@ -1,190 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Javascript/Exercises/jsexercises.js" line="19" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3d80811c-e3bf-4201-9f1b-a0dae47d0379" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/beginnerexercises.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/.idea/cryptomania.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/MANIFEST.in" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/README.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/ccxt.browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/ccxt.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/ccxt.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/countries.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/README.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/_static/css/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/_templates/layout.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/checklist.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/conf.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/exchanges-by-country.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/exchanges.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/index.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/install.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/make.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/doc/manual.rst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/example.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/arbitrage-pairs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/balances.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/basic-chart.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/bcc-vs-bch.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/builtin-rate-limiting-rest-poller.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/cli.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/exchanges.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/fetch-okex-futures.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/fetch-orders.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/instantiate-all-at-once.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/load-all-symbols-at-once.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/load-all-tickers-at-once.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/order-book-extra-level-depth-param.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/proxy-round-robin.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/symbols.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/js/tickers.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/php/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/php/order-book-level-depth-extra-param.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/php/symbols.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/arbitrage-pairs.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/asciichart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-balance-gdax.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-balance.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-balances.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-basic.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-bitfinex-private-post-account-infos.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-fetch-ticker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-generator-multiple-tickers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-generator-ticker-poller.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async-instantiate-all-at-once.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/async.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/balance-gdax.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/balance-kraken.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/balances.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/basic-chart.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/exchanges.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/fetch-gdax-ohlcv-sequentially.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/fetch-ohlcv-sequentially.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/fetch-okex-futures.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/fetch-orders.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/instantiate-all-at-once.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/minimal-2-lines.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/order-book-extra-level-depth-param.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/symbols.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/test-server.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/examples/py/tickers.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/export-exchanges.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/keys.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/push-wiki.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/push.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/run-tests.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/setup.cfg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/setup.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test_async.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test_base.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/test/test_calculate_fee.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/tox.ini" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/transpile.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/update-badges.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/ccxt/vss.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/aes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/cipher-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/crypto-js.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/docs/QuickStartGuide.wiki" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/enc-base64.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/enc-hex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/enc-latin1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/enc-utf16.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/enc-utf8.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/evpkdf.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/format-hex.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/format-openssl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-ripemd160.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha224.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha256.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha384.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac-sha512.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/hmac.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/lib-typedarrays.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/md5.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/mode-cfb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/mode-ctr-gladman.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/mode-ctr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/mode-ecb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/mode-ofb.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-ansix923.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-iso10126.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-iso97971.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-nopadding.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-pkcs7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pad-zeropadding.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/pbkdf2.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/rabbit-legacy.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/rabbit.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/rc4.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/ripemd160.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha1.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha224.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha256.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha3.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha384.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/sha512.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/tripledes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/crypto-js/x64-core.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/LICENSE.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/lib/index.es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/node-fetch/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/dist/qs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/lib/formats.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/lib/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/lib/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/test/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/test/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/node_modules/qs/test/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/server.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Week3/5. Friday/jsexercises.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week3/5. Friday/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Week3/5. Friday/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Week3/5. Friday/cryptomania/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Javascript/Exercises/jsexercises.js" afterPath="$PROJECT_DIR$/Javascript/Exercises/jsexercises.js" />
     </list>
     <ignored path="Coursework.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -207,9 +29,13 @@
       <file leaf-file-name="jsexercises.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Javascript/Exercises/jsexercises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-              <folding />
+            <state relative-caret-position="75">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <marker date="1506898216000" expanded="true" signature="69:352" ph="{...}" />
+                <marker date="1506898216000" expanded="true" signature="200:327" ph="{...}" />
+                <marker date="1506898216000" expanded="true" signature="233:276" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -266,6 +92,7 @@
         <option value="$PROJECT_DIR$/Week2/2. Tuesday/classexercise.py" />
         <option value="$PROJECT_DIR$/Week1/exerciseselfstudy.py" />
         <option value="$PROJECT_DIR$/Week2/2. Tuesday/hero-rpg/hero_rpg_pt2.py" />
+        <option value="$PROJECT_DIR$/Javascript/Exercises/jsexercises.js" />
       </list>
     </option>
   </component>
@@ -358,25 +185,11 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
-  <component name="RunManager">
-    <configuration default="false" name="classexercise" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week2/2. Tuesday" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Coursework" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week2/2. Tuesday/classexercise.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.jsexercises.js">
     <configuration default="false" name="exerciseselfstudy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -445,6 +258,70 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="jsexercises.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="jsexercises.js" working-dir="$PROJECT_DIR$/Javascript/Exercises">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.jsexercises.js" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.jsexercises.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -456,12 +333,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505407255788</updated>
-      <workItem from="1506895602990" duration="30000" />
+      <workItem from="1506895602990" duration="1218000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30000" />
+    <option name="totallyTimeSpent" value="1218000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="873" extended-state="0" />
@@ -469,21 +346,21 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18322763" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2932138" sideWeight="0.20277777" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2765685" sideWeight="0.20718816" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2765685" sideWeight="0.7928118" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980978" sideWeight="0.49751243" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27667058" sideWeight="0.7972222" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3980978" sideWeight="0.49751243" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -774,9 +651,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Javascript/Exercises/jsexercises.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="75">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <marker date="1506898216000" expanded="true" signature="69:352" ph="{...}" />
+            <marker date="1506898216000" expanded="true" signature="200:327" ph="{...}" />
+            <marker date="1506898216000" expanded="true" signature="233:276" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
