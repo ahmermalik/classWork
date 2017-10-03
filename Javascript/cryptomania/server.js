@@ -3,9 +3,7 @@
  */
 
 
+
+
 const ccxt = require ('ccxt')
-
-
-console.log (await exchange.loadMarkets ())
-
-let btcusd1 = bittrex.markets['BTC/USD']
+let exchange = new ccxt.kraken () // default id

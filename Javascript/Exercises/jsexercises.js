@@ -51,3 +51,5 @@ function fibonacci(n){
 
     return fibo[n];
 }
+
+console.log(fibonacci(12))
