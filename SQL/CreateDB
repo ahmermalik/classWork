@@ -1,0 +1,11 @@
+-------------------------------
+to create a Database, use "createdb 'databasename'"
+example: createdb projects_db
+-------------------------------
+in order to enter into a specific sql file, type "nano 'nameofile.sql'"
+example: nano projects.sql
+-------------------------------
+in order to run the database:
+psql projects_db -f projects.sql
+
+
