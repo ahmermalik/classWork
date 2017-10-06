@@ -3,21 +3,21 @@
  */
 
 
-// function isPrime(n){                    //to find out whether a number is divisible by 2 or not.
-//     var divisor = 2;
-//
-//     while (n > divisor){
-//         if(n % divisor == 0){
-//             return false;
-//         }
-//         else
-//             divisor++;
-//     }
-//     return true;
-// }
-//
-//
-// console.log(isPrime(4));
+function isPrime(n){                    //to find out whether a number is divisible by 2 or not.
+    var divisor = 2;
+
+    while (n > divisor){
+        if(n % divisor == 0){
+            return false;
+        }
+        else
+            divisor++;
+    }
+    return true;
+}
+
+
+console.log(isPrime(137));
 
 //
 //
@@ -40,16 +40,16 @@
 // console.log(primeFactors(69))
 
 
-function fibonacci(n){
-    var fibo = [0, 1];
-
-    if (n <= 2) return 1;
-
-    for (var i = 2; i <=n; i++ ){
-        fibo[i] = fibo[i-1]+fibo[i-2];
-    }
-
-    return fibo[n];
-}
-
-console.log(fibonacci(12))
+// function fibonacci(n){
+//     var fibo = [0, 1];
+//
+//     if (n <= 2) return 1;
+//
+//     for (var i = 2; i <=n; i++ ){
+//         fibo[i] = fibo[i-1]+fibo[i-2];
+//     }
+//
+//     return fibo[n];
+// }
+//
+// console.log(fibonacci(12))
