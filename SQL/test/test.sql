@@ -91,7 +91,9 @@ id SERIAL PRIMARY KEY,
 name VARCHAR
 );
 
---
+
+                --##Create new table for articles##--
+---------------------------------------------------------------------
 
 CREATE TABLE article (
 id SERIAL PRIMARY KEY,
