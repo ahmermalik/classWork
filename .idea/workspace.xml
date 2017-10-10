@@ -4,10 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Javascript/Exercises/jsexercises.js" line="19" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d80811c-e3bf-4201-9f1b-a0dae47d0379" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week1/exercises.py" afterPath="$PROJECT_DIR$/Week1/exercises.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Week3/4.Thursday/.idea/workspace.xml" afterPath="$PROJECT_DIR$/Week3/4.Thursday/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3d80811c-e3bf-4201-9f1b-a0dae47d0379" name="Default" comment="" />
     <ignored path="Coursework.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -263,12 +260,27 @@
     <configuration default="false" name="server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$/Javascript/cryptomania">
       <method />
     </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.jsexercises.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.server.js" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python.guessNumber" />
+      <item index="1" class="java.lang.String" itemvalue="Python.hero_rpg2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.hero_rpg_pt2" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">

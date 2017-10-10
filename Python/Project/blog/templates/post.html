@@ -16,4 +16,24 @@
     <br>
     <button type="submit">Create Comment</button>
   </form>
+  </div>
+
+  <div class="comments">
+
+
+<h1> Comments</h1>                                               <!-- add sort by comments-->
+<ul>
+
+  {% for comment in post.comments_set %}
+
+  <li>
+
+      {{ comment.comment }}
+
+  </li>
+
+  {% endfor %}
+</ul>
+
+
 </div>

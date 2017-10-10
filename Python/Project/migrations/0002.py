@@ -7,6 +7,7 @@ from playhouse.migrate import migrate, PostgresqlMigrator
 
 def forward():
     models.DB.create_tables([models.Author])
+    #     models.DB.create_tables([models.Author, models.BlogPost, models.Comment])     #You can also create all tables at once through this method.
 
     author = peewee.ForeignKeyField(
         models.Author, null=True, to_field=models.Author.id)
@@ -20,7 +21,7 @@ def forward():
 def backward():
     migrator = PostgresqlMigrator(models.DB)
     migrate(
-        migrator.drop_column('blogpost', 'author_id'),
+        migrator.drop_column('blogpost', 'author_id', 'comment'),
     )
     models.Author.drop_table()
 

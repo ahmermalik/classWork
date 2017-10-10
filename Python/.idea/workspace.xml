@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7308f5cd-d7fd-4716-8f0f-18c941070f6f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Project/migrations/__init__.py" />
-    </list>
+    <list default="true" id="7308f5cd-d7fd-4716-8f0f-18c941070f6f" name="Default" comment="" />
     <ignored path="Python.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,8 +41,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="594" />
-    <option name="y" value="132" />
+    <option name="x" value="225" />
+    <option name="y" value="87" />
     <option name="width" value="898" />
     <option name="height" value="741" />
   </component>
@@ -291,7 +289,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="594" y="132" width="898" height="741" extended-state="0" />
+    <frame x="225" y="87" width="898" height="741" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494432" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
