@@ -72,6 +72,3 @@ for (index = 0, len = str.length; index < len; ++index) {
 for (ch in counts) {
     console.log(ch + " count: " + counts[ch]);
 }
-
-
-dddd
