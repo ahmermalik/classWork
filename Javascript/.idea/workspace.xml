@@ -31,10 +31,10 @@
       <file leaf-file-name="objects_exercises.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Exercises/objects_exercises.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="131">
+              <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
               <folding>
-                <marker date="1507827921000" expanded="true" signature="0:404" ph="{...}" />
+                <marker date="1507829162000" expanded="true" signature="0:515" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -47,6 +47,7 @@
       <list>
         <option value="$PROJECT_DIR$/Exercises/jsexercises.js" />
         <option value="$PROJECT_DIR$/Exercises/nextattempt.js" />
+        <option value="$PROJECT_DIR$/Exercises/objects_exercises.js" />
       </list>
     </option>
   </component>
@@ -185,12 +186,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1507817429016</updated>
-      <workItem from="1507817430350" duration="4928000" />
+      <workItem from="1507817430350" duration="5899000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4928000" />
+    <option name="totallyTimeSpent" value="5899000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="124" y="22" width="1107" height="844" extended-state="0" />
@@ -243,10 +244,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/objects_exercises.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="131">
+          <caret line="54" column="21" lean-forward="false" selection-start-line="54" selection-start-column="21" selection-end-line="54" selection-end-column="21" />
           <folding>
-            <marker date="1507827921000" expanded="true" signature="0:404" ph="{...}" />
+            <marker date="1507829162000" expanded="true" signature="0:515" ph="{...}" />
           </folding>
         </state>
       </provider>
