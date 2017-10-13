@@ -1,0 +1,48 @@
+//Way to use jquery is:
+
+            $(ELEMENT) or jquery(ELEMENT).
+
+
+//So, if you want to see for instance, all the lists in a page, you'd do:
+
+             $(".list")          or specific list: $(".list a")
+
+                This will pull up all the lists.
+
+
+//How many items in the list:
+             $(".list a").length
+
+
+//Select an item on the list:
+             $(".list a")[0]
+
+
+//If you want to extract the text from any specific item:
+
+             $(".list a").text()            you can do this with any anchor tags(buttons, element tags (h1,), etc)
+
+
+//You can pass in new stuff as well, such as:
+
+
+             $(".list a").text('CLICK NOW')
+
+
+//If you want to change a certain item on the list or any element:
+
+                $(".list a").eq(0).text('click this')
+
+              the eq() will specify which item # on the list, etc
+
+
+
+//If you want to view the web-link that is assigned to any object:
+
+                (".list a").attr('href')
+
+
+
+//If you want to change the web-link that is assigned to any object:
+                (".list a").attr('href', 'http://narf.com')
+
