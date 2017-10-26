@@ -1,0 +1,49 @@
+#table {
+  background-color: green;
+  border-color: #966F33;
+  border-style: solid;
+  border-width: 20px;
+  width: 100vw;
+  height: 100vh;
+  border-radius: 50px;
+  margin: 0 auto;
+}
+
+.tophead {
+  height: 20vh;
+  border-bottom: 1px;
+  border-style: solid;
+  border-color: white;
+  border-radius: 30px;
+  align-items: center;
+  color: white;
+}
+
+.playarea {
+  height: 20vh;
+}
+
+
+.rowhead {
+  background-color: white;
+  height: 20%;
+  color: black;
+  border-top-width: 1px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+
+.hand {
+  height: 80%;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
+  border-bottom: 1px;
+  border-top: 0px;
+  border-style: solid;
+  border-color: white;
+}
+
+img {
+  height: 100%;
+  padding: 10px;
+}

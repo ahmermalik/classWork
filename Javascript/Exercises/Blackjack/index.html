@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css">
+
+    <link rel="stylesheet" href="style.css" type="text/css">
+    <meta charset="utf-8">
+    <title>Blackjack</title>
+  </head>
+  <body>
+
+    <div id="table" class="container-fluid">
+
+      <div class="row tophead">
+
+        <div id="topleft" class="col-md-4 text-center buttons">
+            <button id="deal-button" class="btn btn-primary">Deal</button>
+            <button id="hit-button" class="btn btn-secondary">Hit</button>
+            <button id="stand-button" class="btn btn-info">Stand</button>
+        </div>
+
+        <div id="topcenter" class="col-md-4 text-center">
+          <button id="start-button" class="btn btn-warning"><h2>Start a new game</h2></button>
+        </div>
+
+        <div id="messages" class="col-md-4 text-center">
+
+        </div>
+
+      </div>
+
+
+      <div class="row">
+        <div class="col playarea">
+          <div class="rowhead text-center">
+            <label><strong>Dealer: </strong></label>
+            <label id="dealer-points" class="points"></label>
+          </div>
+
+          <div id="dealer-hand" class="hand">
+          </div>
+
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col playarea">
+
+          <div class="rowhead text-center">
+            <label><strong>Player: </strong></label>
+            <label id="player-points" class="points"></label>
+          </div>
+
+          <div id="player-hand" class="hand">
+          </div>
+
+        </div>
+      </div>
+
+
+
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="blackjack.js"></script>
+
+  </body>
+</html>

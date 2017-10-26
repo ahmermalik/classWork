@@ -1,98 +1,41 @@
 <!DOCTYPE html>
-<html lang="en">
-<link rel="stylesheet" href="/index.css"/>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<!--<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">-->
+
 <head>
+    <html lang="en">
+    <link rel="stylesheet" href="/index.css"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <meta charset="UTF-8">
 </head>
 
 
 <body>
 
-<!--<div class="w3-container">-->
-    <!--<h2>Modal</h2>-->
-    <!--<button onclick="document.getElementById('id01').style.display='block'" class="w3-button w3-black">Open Modal</button>-->
-
-    <!--<div id="id01" class="w3-modal">-->
-        <!--<div class="w3-modal-content">-->
-            <!--<div class="w3-container">-->
-                <!--<div class="modal-dialog">-->
-                    <!--<div class="modal-header"> Helloooo-->
-                    <!--</div>-->
-                <!--<span onclick="document.getElementById('id01').style.display='none'" class="w3-button w3-display-topright">&times;</span>-->
-                <!--<p>Would you like to subscribe to our email newsletter?</p>-->
-            <!--</div>-->
-        <!--</div>-->
-            <!--<button class="buttons">yes</button>-->
-            <!--<button class="buttons">no</button>-->
-    <!--</div>-->
-<!--</div>-->
-
-<div id="modalWindow">
-    <div>
-        <a href="#close">Close modal</a><br>
-        <p>hello this is what is contained within the modal.</p>
-    </div>
+<h1>Popup/Modal Windows without JavaScript</h1>
+<div id="wrapper">
+  <p><a class="button" href="#popup1">Click Me</a></p>
+	<p><a class="button" href="#popup2">Click Me Too</a></p>
 </div>
 
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h2>Info box</h2>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+			<p>Modal box test.</p>
+		</div>
+	</div>
+</div>
 
-
-
-
-<h1>HTML Ipsum Presents</h1>
-
-<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
-
-<h2>Header Level 2</h2>
-
-<ol>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-    <li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
-
-<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
-
-<h3>Header Level 3</h3>
-
-<ul>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-    <li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
-
-<pre><code>
-    #header h1 a {
-        display: block;
-        width: 300px;
-        height: 80px;
-    }
-    </code></pre>
-<p><strong>Pellentesque habitant morbi tristique</strong> senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. <em>Aenean ultricies mi vitae est.</em> Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, <code>commodo vitae</code>, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. <a href="#">Donec non enim</a> in turpis pulvinar facilisis. Ut felis.</p>
-
-<h2>Header Level 2</h2>
-
-<ol>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-    <li>Aliquam tincidunt mauris eu risus.</li>
-</ol>
-
-<blockquote><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p></blockquote>
-
-<h3>Header Level 3</h3>
-
-<ul>
-    <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>
-    <li>Aliquam tincidunt mauris eu risus.</li>
-</ul>
-
-<pre><code>
-    #header h1 a {
-        display: block;
-        width: 300px;
-        height: 80px;
-    }
-    </code></pre>
-
+<div id="popup2" class="overlay light">
+	<a class="cancel" href="#"></a>
+	<div class="popup">
+		<h2>What the what?</h2>
+		<div class="content">
+      <p>Click outside the popup to close.</p>
+		</div>
+	</div>
+</div>
 
 
 
