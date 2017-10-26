@@ -62,8 +62,8 @@ function greeting(person){
 
 
 
-function product(numbers){
-    return numbers.reduce(function(a,b){
+function product(numbers) {
+    return numbers.reduce(function(a, b) {
         return a * b;
     }, 1);
 }
@@ -73,4 +73,6 @@ let prod_func = function(num1, num2, callback){
     return callback(num1, num2, product)
 }
 
-console.log(prod_func(3,product))
+// console.log(prod_func(3,2, product))
+//
+r
