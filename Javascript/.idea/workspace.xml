@@ -17,12 +17,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Oct26exercise.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+      <file leaf-file-name="Oct16exercise.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/Oct16exercise.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="351">
+              <caret line="111" column="34" lean-forward="false" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
+              <folding>
+                <element signature="e#1930#1951#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Oct27exercises.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercises/Oct27exercises.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="329">
+              <caret line="207" column="0" lean-forward="true" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+              <folding>
+                <element signature="e#2#47#0" expanded="false" />
+                <element signature="e#51#53#0" expanded="false" />
+                <element signature="e#1162#1200#0" expanded="false" />
+                <element signature="n#!!doc;n#getInput#0" expanded="false" />
+                <element signature="n#!!block;n#getInput#0" expanded="false" />
+                <element signature="e#1702#1992#0" expanded="false" />
+                <element signature="e#1787#1867#0" expanded="false" />
+                <element signature="e#1919#1984#0" expanded="false" />
+                <element signature="n#!!doc;n#readFile#0" expanded="false" />
+                <element signature="n#!!block;n#readFile#0" expanded="false" />
+                <element signature="e#2115#2342#0" expanded="false" />
+                <element signature="e#2180#2334#0" expanded="false" />
+                <element signature="e#2205#2259#0" expanded="false" />
+                <element signature="e#2265#2324#0" expanded="false" />
+                <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+                <element signature="n#!!block;n#writeFile#0" expanded="false" />
+                <element signature="e#2551#2734#0" expanded="false" />
+                <element signature="e#2603#2726#0" expanded="false" />
+                <element signature="e#2624#2668#0" expanded="false" />
+                <element signature="e#2674#2716#0" expanded="false" />
+                <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+                <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+                <element signature="e#2861#2963#0" expanded="false" />
+                <element signature="e#3001#3051#0" expanded="false" />
+                <element signature="e#3081#3139#0" expanded="false" />
+                <element signature="n#!!block;n#runDNSLookup#0" expanded="false" />
+                <element signature="e#3234#3494#0" expanded="false" />
+                <element signature="e#3314#3482#0" expanded="false" />
+                <element signature="e#3339#3406#0" expanded="false" />
+                <element signature="e#3412#3468#0" expanded="false" />
+                <element signature="e#3524#3582#0" expanded="false" />
+                <element signature="n#!!block;n#runReadWrite#0" expanded="false" />
+                <element signature="e#3777#3884#0" expanded="false" />
+                <element signature="e#3918#4013#0" expanded="false" />
+                <element signature="e#4051#4122#0" expanded="false" />
+                <element signature="e#4148#4207#0" expanded="false" />
+                <element signature="e#4237#4288#0" expanded="false" />
+                <element signature="n#!!block;n#hello#0" expanded="false" />
+                <element signature="e#4349#4421#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +92,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>getinput</find>
+      <find>promise</find>
     </findStrings>
   </component>
   <component name="IdeDocumentHistory">
@@ -52,6 +105,11 @@
         <option value="$PROJECT_DIR$/Exercises/jquery.html" />
         <option value="$PROJECT_DIR$/Exercises/jquery_notes" />
         <option value="$PROJECT_DIR$/Exercises/Oct26exercise.js" />
+        <option value="$PROJECT_DIR$/Exercises/Oct27exercises.js" />
+        <option value="$PROJECT_DIR$/exercises/node_modules/node_notes" />
+        <option value="$PROJECT_DIR$/exercises/Oct26exercise.js" />
+        <option value="$PROJECT_DIR$/exercises/Oct27exercises.js" />
+        <option value="$PROJECT_DIR$/exercises/Oct16exercise.js" />
       </list>
     </option>
   </component>
@@ -69,13 +127,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/Exercises/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="532" />
-    <option name="y" value="96" />
-    <option name="width" value="1289" />
-    <option name="height" value="804" />
+    <option name="x" value="290" />
+    <option name="y" value="53" />
+    <option name="width" value="1150" />
+    <option name="height" value="843" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -103,7 +161,13 @@
             <path>
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Blackjack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,7 +207,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.nextattempt.js">
+  <component name="RunManager" selected="Node.js.Oct16exercise.js">
+    <configuration name="Oct16exercise.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Oct16exercise.js" working-dir="$PROJECT_DIR$/exercises">
+      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
+        <option name="envVars">
+          <list />
+        </option>
+        <option name="extraHosts">
+          <list />
+        </option>
+        <option name="links">
+          <list />
+        </option>
+        <option name="networkDisabled" value="false" />
+        <option name="networkMode" value="bridge" />
+        <option name="portBindings">
+          <list />
+        </option>
+        <option name="publishAllPorts" value="false" />
+        <option name="version" value="1" />
+        <option name="volumeBindings">
+          <list />
+        </option>
+      </EXTENSION>
+    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -202,32 +289,9 @@
       <recursive>false</recursive>
       <method />
     </configuration>
-    <configuration name="nextattempt.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="Oct26exercise.js" working-dir="$PROJECT_DIR$/Exercises">
-      <EXTENSION ID="com.jetbrains.nodejs.remote.docker.NodeJSDockerRunConfigurationExtension">
-        <option name="envVars">
-          <list />
-        </option>
-        <option name="extraHosts">
-          <list />
-        </option>
-        <option name="links">
-          <list />
-        </option>
-        <option name="networkDisabled" value="false" />
-        <option name="networkMode" value="bridge" />
-        <option name="portBindings">
-          <list />
-        </option>
-        <option name="publishAllPorts" value="false" />
-        <option name="version" value="1" />
-        <option name="volumeBindings">
-          <list />
-        </option>
-      </EXTENSION>
-    </configuration>
     <recent_temporary>
       <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.nextattempt.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.Oct16exercise.js" />
       </list>
     </recent_temporary>
   </component>
@@ -251,32 +315,32 @@
       <workItem from="1509033238177" duration="80000" />
       <workItem from="1509033368333" duration="3635000" />
       <workItem from="1509053918475" duration="33000" />
-      <workItem from="1509053979243" duration="8506000" />
+      <workItem from="1509053979243" duration="21319000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23134000" />
+    <option name="totallyTimeSpent" value="35947000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="532" y="96" width="1289" height="804" extended-state="0" />
+    <frame x="290" y="53" width="1150" height="843" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2137224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24003543" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.348378" sideWeight="0.5291798" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34759358" sideWeight="0.54118687" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32863188" sideWeight="0.49750623" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.348378" sideWeight="0.4708202" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34759358" sideWeight="0.4588131" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977304" sideWeight="0.4492406" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4171123" sideWeight="0.4410983" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3992298" sideWeight="0.4947146" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -293,51 +357,131 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+    <entry file="file://$PROJECT_DIR$/exercises/Oct26exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#50#88#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#1003#1230#0" expanded="false" />
+            <element signature="e#1068#1222#0" expanded="false" />
+            <element signature="e#1093#1147#0" expanded="false" />
+            <element signature="e#1153#1212#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#1439#1622#0" expanded="false" />
+            <element signature="e#1491#1614#0" expanded="false" />
+            <element signature="e#1512#1556#0" expanded="false" />
+            <element signature="e#1562#1604#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#1749#1851#0" expanded="false" />
+            <element signature="e#1889#1939#0" expanded="false" />
+            <element signature="e#1969#2027#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+    <entry file="file://$PROJECT_DIR$/exercises/Oct26exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#50#88#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#1003#1230#0" expanded="false" />
+            <element signature="e#1068#1222#0" expanded="false" />
+            <element signature="e#1093#1147#0" expanded="false" />
+            <element signature="e#1153#1212#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#1439#1622#0" expanded="false" />
+            <element signature="e#1491#1614#0" expanded="false" />
+            <element signature="e#1512#1556#0" expanded="false" />
+            <element signature="e#1562#1604#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#1749#1851#0" expanded="false" />
+            <element signature="e#1889#1939#0" expanded="false" />
+            <element signature="e#1969#2027#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+    <entry file="file://$PROJECT_DIR$/exercises/Oct26exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#50#88#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#1003#1230#0" expanded="false" />
+            <element signature="e#1068#1222#0" expanded="false" />
+            <element signature="e#1093#1147#0" expanded="false" />
+            <element signature="e#1153#1212#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#1439#1622#0" expanded="false" />
+            <element signature="e#1491#1614#0" expanded="false" />
+            <element signature="e#1512#1556#0" expanded="false" />
+            <element signature="e#1562#1604#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#1749#1851#0" expanded="false" />
+            <element signature="e#1889#1939#0" expanded="false" />
+            <element signature="e#1969#2027#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+    <entry file="file://$PROJECT_DIR$/exercises/Oct26exercise.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#50#88#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#1003#1230#0" expanded="false" />
+            <element signature="e#1068#1222#0" expanded="false" />
+            <element signature="e#1093#1147#0" expanded="false" />
+            <element signature="e#1153#1212#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#1439#1622#0" expanded="false" />
+            <element signature="e#1491#1614#0" expanded="false" />
+            <element signature="e#1512#1556#0" expanded="false" />
+            <element signature="e#1562#1604#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#1749#1851#0" expanded="false" />
+            <element signature="e#1889#1939#0" expanded="false" />
+            <element signature="e#1969#2027#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/jquery.html">
+    <entry file="file://$PROJECT_DIR$/exercises/jquery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/jquery_notes">
+    <entry file="file://$PROJECT_DIR$/exercises/jquery_notes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="705">
           <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
@@ -345,35 +489,35 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cryptomania/server.js" />
-    <entry file="file://$PROJECT_DIR$/Exercises/objects_exercises.js">
+    <entry file="file://$PROJECT_DIR$/exercises/objects_exercises.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="58" column="25" lean-forward="true" selection-start-line="58" selection-start-column="25" selection-end-line="58" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/jsexercises.js">
+    <entry file="file://$PROJECT_DIR$/exercises/jsexercises.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
           <caret line="77" column="43" lean-forward="false" selection-start-line="77" selection-start-column="43" selection-end-line="77" selection-end-column="43" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/hacksNsnacks.html">
+    <entry file="file://$PROJECT_DIR$/exercises/hacksNsnacks.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/jquery.html">
+    <entry file="file://$PROJECT_DIR$/exercises/jquery.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="14" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/jquery_notes">
+    <entry file="file://$PROJECT_DIR$/exercises/jquery_notes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
@@ -396,11 +540,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/Oct26exercise.js">
+    <entry file="file://$PROJECT_DIR$/exercises/lol2">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        <state relative-caret-position="345">
+          <caret line="23" column="4" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/node_modules/node_notes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/Oct26exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#45#0" expanded="false" />
+            <element signature="e#50#88#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#1003#1230#0" expanded="false" />
+            <element signature="e#1068#1222#0" expanded="false" />
+            <element signature="e#1093#1147#0" expanded="false" />
+            <element signature="e#1153#1212#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#1439#1622#0" expanded="false" />
+            <element signature="e#1491#1614#0" expanded="false" />
+            <element signature="e#1512#1556#0" expanded="false" />
+            <element signature="e#1562#1604#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#1749#1851#0" expanded="false" />
+            <element signature="e#1889#1939#0" expanded="false" />
+            <element signature="e#1969#2027#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/closure_exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/Oct27exercises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="207" column="0" lean-forward="true" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+          <folding>
+            <element signature="e#2#47#0" expanded="false" />
+            <element signature="e#51#53#0" expanded="false" />
+            <element signature="e#1162#1200#0" expanded="false" />
+            <element signature="n#!!doc;n#getInput#0" expanded="false" />
+            <element signature="n#!!block;n#getInput#0" expanded="false" />
+            <element signature="e#1702#1992#0" expanded="false" />
+            <element signature="e#1787#1867#0" expanded="false" />
+            <element signature="e#1919#1984#0" expanded="false" />
+            <element signature="n#!!doc;n#readFile#0" expanded="false" />
+            <element signature="n#!!block;n#readFile#0" expanded="false" />
+            <element signature="e#2115#2342#0" expanded="false" />
+            <element signature="e#2180#2334#0" expanded="false" />
+            <element signature="e#2205#2259#0" expanded="false" />
+            <element signature="e#2265#2324#0" expanded="false" />
+            <element signature="n#!!doc;n#writeFile#0" expanded="false" />
+            <element signature="n#!!block;n#writeFile#0" expanded="false" />
+            <element signature="e#2551#2734#0" expanded="false" />
+            <element signature="e#2603#2726#0" expanded="false" />
+            <element signature="e#2624#2668#0" expanded="false" />
+            <element signature="e#2674#2716#0" expanded="false" />
+            <element signature="n#!!doc;n#runFileReader#0" expanded="false" />
+            <element signature="n#!!block;n#runFileReader#0" expanded="false" />
+            <element signature="e#2861#2963#0" expanded="false" />
+            <element signature="e#3001#3051#0" expanded="false" />
+            <element signature="e#3081#3139#0" expanded="false" />
+            <element signature="n#!!block;n#runDNSLookup#0" expanded="false" />
+            <element signature="e#3234#3494#0" expanded="false" />
+            <element signature="e#3314#3482#0" expanded="false" />
+            <element signature="e#3339#3406#0" expanded="false" />
+            <element signature="e#3412#3468#0" expanded="false" />
+            <element signature="e#3524#3582#0" expanded="false" />
+            <element signature="n#!!block;n#runReadWrite#0" expanded="false" />
+            <element signature="e#3777#3884#0" expanded="false" />
+            <element signature="e#3918#4013#0" expanded="false" />
+            <element signature="e#4051#4122#0" expanded="false" />
+            <element signature="e#4148#4207#0" expanded="false" />
+            <element signature="e#4237#4288#0" expanded="false" />
+            <element signature="n#!!block;n#hello#0" expanded="false" />
+            <element signature="e#4349#4421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/Oct16exercise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="111" column="34" lean-forward="false" selection-start-line="111" selection-start-column="34" selection-end-line="111" selection-end-column="34" />
+          <folding>
+            <element signature="e#1930#1951#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
