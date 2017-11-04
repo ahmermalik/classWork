@@ -37,41 +37,41 @@
 //
 // console.log("===================================================")
 //
-// console.log("                   Letter Histogram")
-//
-// console.log("How many times the letter 'a' is in the sentence: 'A man is as good as his word'")
-//
-// str = "A man is as good as his word";
-// console.log((str.split('a').length-1));
-//
-//
-// // The string
-// var str = "I want to count the number of occurances of each char in this string";
-//
-// // A map (in JavaScript, an object) for the character=>count mappings
-// var counts = {};
-//
-// // Misc vars
-// var ch, index, len, count;
-//
-// // Loop through the string...
-// for (index = 0, len = str.length; index < len; ++index) {
-//     // Get this character
-//     ch = str.charAt(index); // Not all engines support [] on strings
-//
-//     // Get the count for it, if we have one; we'll get `undefined` if we
-//     // don't know this character yet
-//     count = counts[ch];
-//
-//     // If we have one, store that count plus one; if not, store one
-//     // We can rely on `count` being falsey if we haven't seen it before,
-//     // because we never store falsey numbers in the `counts` object.
-//     counts[ch] = count ? count + 1 : 1;
-// }
-//
-// for (ch in counts) {
-//     console.log(ch + " count: " + counts[ch]);
-// }
+console.log("                   Letter Histogram")
+
+console.log("How many times the letter 'a' is in the sentence: 'A man is as good as his word'")
+
+str = "A man is as good as his word";
+console.log((str.split('a').length-1));
+
+
+// The string
+var str = "I want to count the number of occurances of each char in this string";
+
+// A map (in JavaScript, an object) for the character=>count mappings
+var counts = {};
+
+// Misc vars
+var ch, index, len, count;
+
+// Loop through the string...
+for (index = 0, len = str.length; index < len; ++index) {
+    // Get this character
+    ch = str.charAt(index); // Not all engines support [] on strings
+
+    // Get the count for it, if we have one; we'll get `undefined` if we
+    // don't know this character yet
+    count = counts[ch];
+
+    // If we have one, store that count plus one; if not, store one
+    // We can rely on `count` being falsey if we haven't seen it before,
+    // because we never store falsey numbers in the `counts` object.
+    counts[ch] = count ? count + 1 : 1;
+}
+
+for (ch in counts) {
+    console.log(ch + " count: " + counts[ch]);
+}
 
 
 //     //Javascript primitive to objects by adding 'new' //
@@ -84,14 +84,14 @@
 // var x7 = new Function();  // A new Function object
 // var x8 = new Date();      // A new Date object
 
-function person(first, last, age, eye) {
-    this.firstName = first;
-    this.lastName = last;
-    this.age = age;
-    this.eyeColor = eye;
-}
-var myFather = new person("John", "Doe", 50, "blue");
-var myMother = new person("Sally", "Rally", 48, "green");
+// function person(first, last, age, eye) {
+//     this.firstName = first;
+//     this.lastName = last;
+//     this.age = age;
+//     this.eyeColor = eye;
+// }
+// var myFather = new person("John", "Doe", 50, "blue");
+// var myMother = new person("Sally", "Rally", 48, "green");
 
 //console.log(myMother)
 

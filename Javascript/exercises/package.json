@@ -4,6 +4,9 @@
   "description": "",
   "main": "Oct26exercise.js",
   "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "prompt-promise": "^1.0.3",
     "request": "^2.83.0"
   },
   "devDependencies": {},

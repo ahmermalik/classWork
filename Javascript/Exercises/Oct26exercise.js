@@ -17,7 +17,7 @@
 // });
 
 const readline = require('readline');
-const fs = require('fs');
+const fs = require('fs');w
 const dns = require('dns');
 
 /**
