@@ -1,0 +1,25 @@
+{
+  "name": "pg_promise_exercises",
+  "version": "1.0.0",
+  "description": "this contains exercises that utilize user inputs through prompt promise and inserts into a database.",
+  "main": "create_album.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pg",
+    "promise",
+    "prompt",
+    "promise",
+    "promise",
+    "chain",
+    "postgresql",
+    "postgres",
+    "database"
+  ],
+  "author": "ahmer malik",
+  "license": "ISC",
+  "dependencies": {
+    "pg-promise": "^7.3.1"
+  }
+}

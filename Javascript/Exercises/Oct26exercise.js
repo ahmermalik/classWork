@@ -17,7 +17,7 @@
 // });
 
 const readline = require('readline');
-const fs = require('fs');w
+const fs = require('fs');
 const dns = require('dns');
 
 /**
@@ -73,7 +73,7 @@ function writeFile(fileName, text){
 }
 
 /**
- * Run the program
+ * Run the program userInput, find the file associated with the name and read the contents of the file.
  */
 function runFileReader(){
     getInput('Enter a filename: ')
@@ -89,7 +89,7 @@ function runFileReader(){
             console.log(' got an error '+err);
         });
 }
-
+/** Get IP address **/
 function runDNSLookup(){
     getInput('Domain name: ')
         .then(function(domainName){ // read file

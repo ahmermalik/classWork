@@ -1,0 +1,28 @@
+To view which version of node you're using:
+    node --version
+
+
+To view all version of node which you can download:
+
+    nvm ls-remote
+
+
+To view all version of node currently installed:
+
+    nvm ls
+
+To install a specific version of node:
+
+    nvm install 8.6.0 (or whatever version)
+
+
+To use a specific version of node:
+
+    nvm use 8.6.0 (or whatever version)
+
+
+To include a module in dev dependencies:
+
+    npm install 'module_name' --save -dev
+
+
