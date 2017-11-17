@@ -19,9 +19,14 @@ prompt('Album Name: ')
     .then(function artistIdResp(val){
         albumInfo.push(val);
         console.log(albumInfo);
+        return db.result('INSERT INTO album VALUES (default, $1, $2, $3)', [albumInfo[0], albumInfo[1],albumInfo[2]]);
+    })
+    .then(function (result) {
+        console.log(result);
         prompt.done();
+        pgp.end();
     })
     .catch(function rejected(err){
-    console.log('error:', err.stack);
-    prompt.finish();
+        console.log('error:', err.stack);
+        prompt.finished();
 });

@@ -9,19 +9,18 @@ var prompt = require('prompt-promise');
 var artistInfo = [];
 
 prompt('Enter an Arist Name: ')
-    .then (function artistNameResp(val){
+    .then (function artistNameResp(val){  //call this user response.
         artistInfo.push(val);
-        prompt.done();
+
+        return db.result('INSERT INTO artist VALUES (default, $1)', artistInfo[0]);
+        // return db.result(`INSERT INTO artist VALUES (default, ${artistInfo[0]})`);
 })
+    .then(function (result) {
+        console.log(result);
+        prompt.done();
+        pgp.end();
+    })
     .catch(function rejected(err){
         console.log('error:', err.stack);
         prompt.finished();
 });
-//
-// var query = `INSERT INTO  artist VALUES (default, '$artistInfo`
-
-db.result(`INSERT INTO artist \
-  VALUES (default, 'artistInfo')`)
-    .then(function (result) {
-        console.log(result);
-    });
