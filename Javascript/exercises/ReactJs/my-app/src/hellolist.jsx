@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import HelloMessage from './hello';
 
 class HelloList extends Component {
     constructor (props) {
@@ -6,14 +7,26 @@ class HelloList extends Component {
 
         this.state = {
             date: new Date(),
-            people:['Ahmer', 'Ashar', 'Daniel', 'Azael']
+            people: [
+                {id: 1, name: 'Paul'},
+                {id: 2, name: "Paulette"}
+            ]
         }
     }
-    render (){
+
+    handleClick (event, person, selected) {
+        console.log('Parent', person, selected);
+    }
+
+    render () {
         return <ul>
             {this.state.people.map((person) =>
-            <li>{person}</li>
+                <li key={person.id}>
+                    <HelloMessage name={person.name} callback={this.handleClick}/>
+                </li>
             )}
         </ul>
     }
 }
+
+export default HelloList;
