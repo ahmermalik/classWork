@@ -1,12 +1,11 @@
 import React from 'react';
-import './Person.css';
+// you have to import React from react in any component you create.
 
 
-const person = (props) => {
+const userInput = (props) => {
     return (
         <div className="Person">
-            <p> I'm {props.name}! and I am {props.age} years old! </p>
-            <p>{props.children}</p>
+
             <input type="text" onChange={props.changed} value={props.name}/>
         </div>
 //{props.name} will put pass the actual name through to the input box.
@@ -16,4 +15,4 @@ const person = (props) => {
     )
 };
 
-export default person;
+export default userInput;

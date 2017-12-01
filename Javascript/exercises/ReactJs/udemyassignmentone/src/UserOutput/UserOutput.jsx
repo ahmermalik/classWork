@@ -1,13 +1,12 @@
 import React from 'react';
-import './Person.css';
+// import './Person.css';
 
 
-const person = (props) => {
+const userOutput = (props) => {
     return (
         <div className="Person">
-            <p> I'm {props.name}! and I am {props.age} years old! </p>
-            <p>{props.children}</p>
-            <input type="text" onChange={props.changed} value={props.name}/>
+            <p> Username: {props.Username} </p>
+            <p> More Random Text !</p>
         </div>
 //{props.name} will put pass the actual name through to the input box.
 //{props.changed} will show the new changed name dynamically.
@@ -16,4 +15,4 @@ const person = (props) => {
     )
 };
 
-export default person;
+export default userOutput;
