@@ -19,7 +19,18 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercises/express_exercises/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -118,6 +129,13 @@
     </layout>
   </component>
   <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/contact_app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/hacker_news_clone-master/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/my-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/person-app/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/person-app3/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/portfolio/node_modules" />
+    <handled-path value="$PROJECT_DIR$/exercises/ReactJs/udemyassignmentone/node_modules" />
     <handled-path value="$PROJECT_DIR$/exercises/express_exercises/node_modules" />
     <handled-path value="$PROJECT_DIR$/exercises/node_modules" />
     <handled-path value="$PROJECT_DIR$/exercises/pg_promise_exercises/node_modules" />
@@ -146,6 +164,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,13 +180,18 @@
             <path>
               <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
               <item name="Javascript" type="462c0819:PsiDirectoryNode" />
+              <item name="exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="express_exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javascript" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Javascript" type="462c0819:PsiDirectoryNode" />
               <item name="notes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -318,11 +342,12 @@
       <workItem from="1510256853694" duration="4291000" />
       <workItem from="1510423670325" duration="3099000" />
       <workItem from="1510589009103" duration="4142000" />
+      <workItem from="1513109201047" duration="1605000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94391000" />
+    <option name="totallyTimeSpent" value="95996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,15 +361,19 @@
   <component name="ToolWindowManager">
     <frame x="42" y="80" width="1354" height="816" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936507" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4171123" sideWeight="0.5624446" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="SFDX" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24687934" sideWeight="0.5648912" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2815534" sideWeight="0.4588131" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24687934" sideWeight="0.43510878" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23255815" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33126295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24687934" sideWeight="0.43755537" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Log Manager" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39814815" sideWeight="0.4947146" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -508,13 +537,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/express_exercises/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="569">
-          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercises/sequelize_exercise/config/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -635,61 +657,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-          <folding>
-            <marker date="1510424178000" expanded="true" signature="0:45" ph="/** Created by ahmermalik on 10/26/17. ...*/" />
-            <marker date="1510424178000" expanded="true" signature="50:356" ph="//..." />
-            <marker date="1510424178000" expanded="true" signature="451:506" ph="/** Get input from console ...*/" />
-            <marker date="1510424178000" expanded="true" signature="540:884" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="590:880" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="675:755" ph="{&quot;input&quot;: process.stdin...}" />
-            <marker date="1510424178000" expanded="true" signature="807:836" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="886:925" ph="/** Read file ...*/" />
-            <marker date="1510424178000" expanded="true" signature="953:1234" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1003:1230" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1068:1222" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1093:1147" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1153:1212" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1236:1354" ph="/** Write a file ...*/" />
-            <marker date="1510424178000" expanded="true" signature="1389:1626" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1439:1622" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1491:1614" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1512:1556" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1562:1604" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1628:1739" ph="/** Run the program userInput, find the file associated with the name and read the contents of the file. ...*/" />
-            <marker date="1510424178000" expanded="true" signature="1764:2116" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1834:1936" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="1974:2024" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2054:2112" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2117:2139" ph="/**...*/" />
-            <marker date="1510424178000" expanded="true" signature="2163:2581" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2229:2489" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2309:2477" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2334:2401" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2407:2463" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2519:2577" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2609:3250" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2735:2842" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="2876:2971" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="3009:3080" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="3106:3165" ph="{...}" />
-            <marker date="1510424178000" expanded="true" signature="3195:3246" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercises/rpg/test_page.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/rpg/test_page.js" />
     <entry file="file://$PROJECT_DIR$/exercises/rpg/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -697,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-89">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -705,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="314">
           <caret line="97" column="36" lean-forward="true" selection-start-line="97" selection-start-column="36" selection-end-line="97" selection-end-column="36" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -713,9 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <marker date="1510595638000" expanded="true" signature="634:663" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,9 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
-          <folding>
-            <marker date="1510602640000" expanded="true" signature="947:1017" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -733,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="376" column="39" lean-forward="true" selection-start-line="376" selection-start-column="39" selection-end-line="376" selection-end-column="39" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -741,9 +707,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding>
-            <marker date="1510602218000" expanded="true" signature="857:927" ph="{...}" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercises/express_exercises/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>

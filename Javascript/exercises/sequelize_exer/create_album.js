@@ -1,8 +1,15 @@
 
+// Imports
 
-var prompt = require('prompt-promise');
+var prompt = require('prompt-promise'); // for accepting user input - promise based
+var db = require('./models');
 
+
+
+
+// Define a Promise for prompting the User for inputs
 var albumInfo = [];
+
 
 prompt('Album Name: ')
     .then(function albumNameResp(val){
@@ -24,7 +31,7 @@ prompt('Album Name: ')
 });
 
 
-
+// Write to album table
 
 
 
