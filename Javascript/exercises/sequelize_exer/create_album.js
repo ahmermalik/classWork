@@ -1,95 +1,65 @@
 
-// Imports
+/* Create Artist
+Write a script to create an album.
+*/
 
+// Imports
 var prompt = require('prompt-promise'); // for accepting user input - promise based
 var db = require('./models');
 
-
-
-
 // Define a Promise for prompting the User for inputs
-var albumInfo = [];
+var getUserInputs = new Promise(
+    function (resolve, reject) {
+        var inputs = [];
+        // Prompt for the artist name
+        prompt('Please enter the album name: ')
+
+            .then(function (value) {
+                inputs.push(value);
+                return prompt('Please enter album year: ');
+            })
+            .then(function (value) {
+                inputs.push(value);
+                return prompt('Please enter Artist ID: ');
+
+            })
+            // then save the prompt information and return as resolved
+            .then(function(value){
+                inputs.push(value);
+                prompt.done();
+                resolve(inputs);
+            })
+            // catch errors while prompting and return as rejected
+            .catch(function (error) {
+                prompt.finish();
+                reject(error);
+            });
+    }
+);
 
 
-prompt('Album Name: ')
-    .then(function albumNameResp(val){
-        albumInfo.push(val);
-        return prompt('Album Year: ');
-    })
-    .then(function albumYearResp(val){
-        albumInfo.push(val);
-        return prompt('Enter An Artist ID: ');
-    })
-    .then(function artistIdResp(val){
-        albumInfo.push(val);
-        console.log(albumInfo);
-        prompt.done();
-    })
-    .catch(function rejected(err){
-    console.log('error:', err.stack);
-    prompt.finish();
-});
+var writeAlbum = function (albumName, albumYear, artist_ID) {
+    db.album.create({name:albumName, year:albumYear, artistId: artist_ID})
+    .then(function(album){
+        console.log(album);
+        db.sequelize.close();
+    });
+}
 
 
-// Write to album table
+var main = function () {
+    getUserInputs
+        .then(function (inputs){
+            var albumName = inputs[0];
+            var albumYear = inputs[1];
+            var artist_ID = inputs[2];
+            writeAlbum(albumName, albumYear, artist_ID);
+            console.log(inputs);
+        })
 
+        .catch(function (error){
+            console.error(error);
+        });
+}
 
-
-
-
-
-
-
-
-
-
-
-//
-// const readline = require('readline');
-//
-//
-// function getInput(questionString){
-//     return new Promise(function(resolve, reject){ // promises help prevent callback hell
-//         const rl = readline.createInterface({
-//             input: process.stdin,
-//             output: process.stdout
-//         });
-//
-//         rl.question(questionString, (answer) => {
-//             resolve(answer);
-//
-//             rl.close();
-//         });
-//     });
-// }
-//
-//
-//
-// function runReadWrite(){
-//     var albumName;
-//     var albumYear;
-//     var outputFileName;
-//
-//     getInput("Enter an an album name: ")
-//         .then(function(name){
-//             albumName = name;
-//
-//             // return getInput("Enter the year: ");
-//         })
-//         .then(function(year){
-//             getInput("Enter an an album name: ")
-//
-//             albumYear = year;
-//         })
-//         // .then(function(fileContents){
-//         //     return writeFile(outputFileName, fileContents);
-//         // })
-//         .then(function(){
-//             console.log("You got a new file!");
-//         })
-//         .catch(function(err){
-//             console.log('error: '+err);
-//         });
-// }
-//
-// runReadWrite();
+main();

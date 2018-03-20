@@ -14,16 +14,16 @@ var getUserInputs = new Promise(
         // Prompt for the artist name
         prompt('Please enter the artist name: ')
         // then save the prompt information and return as resolved
-            .then(function (value) {
-                inputs.push(value);
-                prompt.done();
-                resolve(inputs);
-            })
-            // catch errors while prompting and return as rejected
-            .catch(function (error) {
-                prompt.finish();
-                reject(error);
-            });
+        .then(function (value) {
+            inputs.push(value);
+            prompt.done();
+            resolve(inputs);
+        })
+        // catch errors while prompting and return as rejected
+        .catch(function (error) {
+            prompt.finish();
+            reject(error);
+        });
     }
 );
 
@@ -32,6 +32,7 @@ function writeArtist (artist_name) {
     db.artist.create({name: artist_name})
         .then(function (artist) {
             console.log(artist);
+            db.sequelize.close()
         });
 }
 
