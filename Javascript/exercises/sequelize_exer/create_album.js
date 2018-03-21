@@ -23,7 +23,7 @@ var getUserInputs = new Promise(
                 return prompt('Please enter Artist ID: ');
 
             })
-            // then save the prompt information and return as resolved
+            // then save the prompt information and return as resolved if there are no errors
             .then(function(value){
                 inputs.push(value);
                 prompt.done();
